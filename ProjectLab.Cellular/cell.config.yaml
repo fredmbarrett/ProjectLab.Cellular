@@ -1,5 +1,5 @@
 Settings:
-    APN: envizor.vzwentp # Access Point Name
+    APN:  # Access Point Name
     Module: BG95M3 # Module model (BG770A, BG95M3 or M95)
 #    User: virtu # APN user (optional)
 #    Password: virtu # APN password (optional)
